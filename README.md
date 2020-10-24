@@ -9,7 +9,7 @@ DarkFly is a package which consists fo around 543 tools. This package can clone 
 install:
 
 **Termux:**
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/gc8net/DarkFly-543-Tools`
 * `cd DarkFly-Tool`
 * `chmod +x install.py`
 * `python2 install.py`

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
+Author             : Ms
 contact            : ambari.developer@gmail.com
 Github             : https://github.com/Ranginang67
 my youtube channel : Ms.ambari
